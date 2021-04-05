@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋, I'm Anwar Hossain (Bappy)!
+<br/> 
+<br />
+  Web Designer and Developer
 
-<!--
-**anwarhossainbappy/anwarhossainbappy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Anwar Hossain Bappy's GitHub stats](https://github-readme-stats.vercel.app/api?username=anwarhossainbappy&show_icons=true)  
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=anwarhossainbappy&layout=compact)
+
+
+## My Repos
+
+[![Python-MusicPlayer](https://github-readme-stats.vercel.app/api/pin/?username=anwarhossainbappy&repo=Python-MusicPlayer&show_owner=true)](https://github.com/anwarhossainbappy/Python-MusicPlayer)
+
+[![FirebaseExample](https://github-readme-stats.vercel.app/api/pin/?username=anwarhossainbappy&repo=FirebaseExample&show_owner=true)](https://github.com/anwarhossainbappy/FirebaseExample)
+
+[![NavigationDrawer](https://github-readme-stats.vercel.app/api/pin/?username=anwarhossainbappy&repo=NavigationDrawer&show_owner=true)](https://github.com/anwarhossainbappy/NavigationDrawer)
+
